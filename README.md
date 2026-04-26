@@ -28,7 +28,7 @@ If you remember just this:
 
 > Simple Bash script in action
 
-![Preview](https://raw.githubusercontent.com/linuxteck/bash-scripting/main/bash-preview.png)
+![Preview](https://github.com/linuxteck/what-is-bash-scripting-linux/blob/main/Bash-Part-1.png)
 
 ---
 
